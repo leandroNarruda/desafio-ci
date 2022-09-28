@@ -1,0 +1,1 @@
+# Project with continuous integration
